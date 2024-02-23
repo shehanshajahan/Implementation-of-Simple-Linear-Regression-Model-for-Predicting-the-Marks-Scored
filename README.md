@@ -18,7 +18,7 @@ To write a program to predict the marks scored by a student using the simple lin
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Shehan Shajahan
-RegisterNumber:  212223240154
+RegisterNumber: 212223240154
 */
 import pandas as pd
 import numpy as np
@@ -45,7 +45,7 @@ plt.plot(X_train,lr.predict(X_train),color='red')
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![EXP2](https://github.com/shehanshajahan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139317389/76a23da3-4fbc-44f3-bf4c-310287907014)
 
 
 ## Result:
